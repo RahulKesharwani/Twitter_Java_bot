@@ -12,3 +12,4 @@ release.properties
 .gradle
 dependency-reduced-pom.xml
 .DS_Store
+twitter4j.properties
